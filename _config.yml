@@ -27,7 +27,7 @@ description: >记录一些日常想法、书影音和信息总结，欢迎成为
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
+lang: 中文
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
